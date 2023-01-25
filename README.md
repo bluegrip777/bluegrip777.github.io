@@ -1,2 +1,2 @@
 # bluegrip777.github.io
-verifying nostr npub1wmv28sett8kajksl4dn9rf9ufk7ts42329k83hn0sm34khkacp2q9rcnsr
+verifying nostr 76d8a3c32b59edd95a1fab6651a4bc4dbcb85551516c78de6f86e35b5eddc054
